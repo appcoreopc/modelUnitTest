@@ -1,0 +1,16 @@
+using C3PostTrade.Automation.SolaceContainerApi.Interfaces.Docker.Model;
+using Xunit;
+
+namespace C3PostTrade.Automation.SolaceContainerApi.Interfaces.Tests.Unit.Model
+{
+    public class ###Head
+    {
+        [Fact]
+        public void ModelOk()
+        {
+           #####
+           
+		   Assert.NotNull(target);
+        }
+    }
+}
